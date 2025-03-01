@@ -1,6 +1,6 @@
 # Boomer Shooter
 
-This is a project that I'm working on to prove that I know C++.
+This is a project that I'm working on to learn C++.
 It's intended to be a boomer shooter in the end, but currently
 there's not much to see.
 
